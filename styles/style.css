@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    padding: 10em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+main{
+    margin: auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 3em;
+}
+
+h1{
+    font-size: 100px;
+}
+
+footer{
+    clear: both;
+    background-color: black;
+    border-radius: 2em;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-size: 25px;
+}
